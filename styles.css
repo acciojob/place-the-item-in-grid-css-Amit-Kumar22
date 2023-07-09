@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
 .holder{
-	display: inline-grid;
+	display: grid;
   grid-template-columns: 200px 200px;
   padding: 10px;
 }
